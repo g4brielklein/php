@@ -2,6 +2,6 @@
 
 echo "Hello World";
 
-echo "update";
+echo "Update";
 
 ?>
