@@ -1,7 +1,9 @@
 <?php
 
-echo "Hello World";
+echo "Hello World 456";
 
 echo "Update";
+
+echo "Error test";
 
 ?>
